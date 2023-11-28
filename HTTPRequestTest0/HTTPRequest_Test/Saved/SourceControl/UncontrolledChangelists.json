@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jil21037/Documents/GitHub/UE5_HTTP-request-C600/HTTPRequestTest0/HTTPRequest_Test/Content/HTTPRcube.uasset",
+				"C:/Users/jil21037/Documents/GitHub/UE5_HTTP-request-C600/HTTPRequestTest0/HTTPRequest_Test/Content/TestHTTPRimage.uasset",
+				"C:/Users/jil21037/Documents/GitHub/UE5_HTTP-request-C600/HTTPRequestTest0/HTTPRequest_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SK/V59D583UPP5GN8MIO41T25.uasset",
+				"C:/Users/jil21037/Documents/GitHub/UE5_HTTP-request-C600/HTTPRequestTest0/HTTPRequest_Test/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
 				"C:/Users/jil21037/Desktop/HTTP Request Test/HTTPRequest_Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/jil21037/Desktop/HTTP Request Test/HTTPRequest_Test/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
 			]
